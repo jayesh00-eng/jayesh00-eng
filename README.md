@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=190&section=header&text=Patil & jayeshfontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=190&section=header&text=Patil& jayeshfontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RoushanGoswami&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=patil jayesh&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
 </p>
 
 <p align="center">
