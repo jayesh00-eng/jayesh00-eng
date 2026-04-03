@@ -36,12 +36,6 @@ From crafting smooth front-end interfaces to designing solid back-end systems, I
 - 🎯 Discipline & consistency  
 - 🤝 Team-oriented attitude  
 
----
-
-## 🎓 Education
-📘 **12th Science**
-
----
 
 ## 🛠️ Tech Stack
 
